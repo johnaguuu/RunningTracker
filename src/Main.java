@@ -9,6 +9,8 @@ public class Main {
         tracker.addRun(run);
         tracker.listRuns();
 
+        System.out.println(run);
+
 
 
 
