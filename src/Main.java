@@ -67,7 +67,7 @@ public class Main {
         }
 
         System.out.println("Hello John, good afternoon! Time to do some proper work okay." +
-                "\nIt's gonna be super nice and cool");
+                "It's gonna be super nice and cool");
 
 
         System.out.println("This is a println");
