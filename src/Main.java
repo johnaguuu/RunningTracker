@@ -1,6 +1,19 @@
 import java.time.LocalDate;
 import java.util.Scanner;
 
+
+/*
+ This is a section where we will put extra ideas to do for the future versions of the program. To keep track of what I want to do:
+
+ - I want to add a feature to delete runs
+ - Another feature to save and load runs from a file.
+ - Translate runs from pace to kmh, mph.
+ - End up being able to make graphs of the runs.
+ - Addition of an actual user GUI
+
+
+*/
+
 public class Main {
     public static void main(String[] args) {
 
